@@ -128,17 +128,28 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 ## Pengaturan USB PL2303
 <img width="840" src="Assets/Documentation/Experiment/PL2303 Configuration.jpg" alt="pl2303-configuration"><br><br>
 
-<strong>Catatan :</strong>
-
-   <table><tr><td width="840">
-
-   • ``` Arduino Pro Mini ``` ini tidak dilengkapi dengan ``` port USB ```, sehingga anda membutuhkan perangkat tambahan berupa ``` USB to TTL Serial ``` untuk dapat terhubung ke laptop ataupun PC. ``` USB to TTL Serial ``` seperti ``` USB PL2303 ``` ini biasa digunakan untuk media perantara dalam pengunggahan suatu program.
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Catatan</h3>
+   <ul>
+   <li>
    
-   • Pemasangan kabel antara ``` USB PL2303 ``` dengan board ``` Arduino Pro Mini ``` dapat anda lihat selengkapnya pada gambar di atas.
+   ``` Arduino Pro Mini ``` ini tidak dilengkapi dengan ``` port USB ```, sehingga anda membutuhkan perangkat tambahan berupa ``` USB to TTL Serial ``` untuk dapat terhubung ke laptop ataupun PC. ``` USB to TTL Serial ``` seperti ``` USB PL2303 ``` ini biasa digunakan untuk media perantara dalam pengunggahan suatu program.
    
-   • Untuk mengunggah program, selain menggunakan ``` USB PL2303 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` USB CP2102 ```, ``` USB CH340 ```, atau dengan ``` USB FTDI ```. Berdasarkan pengalaman, saya akui bahwa penggunaan ``` USB FTDI ``` atau ``` USB CP2102 ``` itu jauh lebih baik daripada ``` USB PL2303 ``` maupun ``` USB CH340 ``` karena diketahui kinerjanya lebih stabil.
+   </li>
+   <li>
+   
+   Pemasangan kabel antara ``` USB PL2303 ``` dengan board ``` Arduino Pro Mini ``` dapat anda lihat selengkapnya pada gambar di atas.
+   
+   </li>
+   <li>
+   
+   Untuk mengunggah program, selain menggunakan ``` USB PL2303 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` USB CP2102 ```, ``` USB CH340 ```, atau dengan ``` USB FTDI ```. Berdasarkan pengalaman, saya akui bahwa penggunaan ``` USB FTDI ``` atau ``` USB CP2102 ``` itu jauh lebih baik daripada ``` USB PL2303 ``` maupun ``` USB CH340 ``` karena diketahui kinerjanya lebih stabil.
+   
+   </li>
+   </ul>
+</blockquote>
 
-   </td></tr></table><br><br>
+<br><br>
 
 ## Memulai
 1. Unduh dan ekstrak repositori ini.<br><br>

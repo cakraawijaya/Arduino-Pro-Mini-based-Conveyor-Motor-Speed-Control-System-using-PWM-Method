@@ -128,17 +128,28 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 ## PL2303 USB Setup
 <img width="840" src="Assets/Documentation/Experiment/PL2303 Configuration.jpg" alt="pl2303-configuration"><br><br>
 
-<strong>Notes:</strong>
-
-   <table><tr><td width="840">
-
-   • This ``` Arduino Pro Mini ``` is not equipped with a ``` USB port ```, so you need an additional device in the form of a ``` USB to TTL Serial ``` to connect to a laptop or PC. ``` USB to TTL Serial ``` like the ``` PL2303 USB ``` is commonly used as an intermediate medium for uploading programs.
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Notes</h3>
+   <ul>
+   <li>
    
-   • You can see the wiring between the ``` PL2303 USB ``` and the ``` Arduino Pro Mini ``` board in the picture above.
-
-   • To upload a program, in addition to using the ``` PL2303 USB ```, you can also use other programming tools such as: ``` CP2102 USB ```, ``` CH340 USB ```, or with ``` FTDI USB ```. Based on experience, I admit that using ``` FTDI USB ``` or ``` CP2102 USB ``` is much better than ``` PL2303 USB ``` or ``` CH340 USB ``` because they are known to be more stable in performance.
+   This ``` Arduino Pro Mini ``` is not equipped with a ``` USB port ```, so you need an additional device in the form of a ``` USB to TTL Serial ``` to connect to a laptop or PC. ``` USB to TTL Serial ``` like the ``` PL2303 USB ``` is commonly used as an intermediate medium for uploading programs.
    
-   </td></tr></table><br><br>
+   </li>
+   <li>
+   
+   You can see the wiring between the ``` PL2303 USB ``` and the ``` Arduino Pro Mini ``` board in the picture above.
+   
+   </li>
+   <li>
+   
+   To upload a program, in addition to using the ``` PL2303 USB ```, you can also use other programming tools such as: ``` CP2102 USB ```, ``` CH340 USB ```, or with ``` FTDI USB ```. Based on experience, I admit that using ``` FTDI USB ``` or ``` CP2102 USB ``` is much better than ``` PL2303 USB ``` or ``` CH340 USB ``` because they are known to be more stable in performance.
+   
+   </li>
+   </ul>
+</blockquote>
+
+<br><br>
 
 ## Get Started
 1. Download and extract this repository.<br><br>
