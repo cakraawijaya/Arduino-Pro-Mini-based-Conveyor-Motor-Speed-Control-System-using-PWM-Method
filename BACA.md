@@ -128,8 +128,8 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 ## Pengaturan USB PL2303
 <img width="840" src="Assets/Documentation/Experiment/PL2303 Configuration.jpg" alt="pl2303-configuration"><br><br>
 
+<h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Catatan</h3><hr>
 <blockquote>
-   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Catatan</h3>
    <ul>
    <li>
    
