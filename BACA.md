@@ -38,7 +38,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/PL2303_USBdriver
+   https://bit.ly/PL2303P_USBdriver
    ```
 
    </td></tr></table>
