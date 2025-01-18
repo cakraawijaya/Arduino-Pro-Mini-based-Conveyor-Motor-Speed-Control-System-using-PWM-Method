@@ -38,7 +38,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/PL2303_USBdriver
+   https://bit.ly/PL2303P_USBdriver
    ```
 
    </td></tr></table>
