@@ -18,7 +18,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
 | Driver | PL2303 USB Driver |
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | Gear Motor / Motor DC (x1) |
-| Komponen Lainnya| • Kabel jumper (1 set)<br>• Adaptor DC 12V 2A (x1)<br>• Motor driver L298N (x1)<br>• Breadboard (x1)<br>• Potensiometer (x1)<br>• Tombol tekan 12 x 12 mm (x2)<br>• Stiker kayu (1 set)<br>• Papan kayu (x2) |
+| Komponen Lainnya| • Kabel jumper (1 set)<br>• Adaptor DC 12V 2A (x1)<br>• Motor driver L298N (x1)<br>• Breadboard (x1)<br>• Potensiometer (x1)<br>• Tombol tekan 12 x 12 mm (x2)<br>• Stiker kayu (1 set)<br>• PVC Lembaran 3mm uk.10x50cm (x5)<br>• Braket L (1 set)<br>• Pipa PVC 1/2 Inch (x2)<br>• Amplas Grid 180 (x1)<br>• Besi Stainless Steel 6mm (x2)<br>• Bantalan Bearing 6mm (x3)<br>• Kain Oscar / Kain Perlak (1 set) <br>• Lem Castol / G (x1) <br>• Baut plus 3mm (1 set)<br>• Baut plus 5mm (1 set)<br>• Mur 3mm (1 set)<br>• Mur 5mm (1 set) |
 
 <br><br>
 
