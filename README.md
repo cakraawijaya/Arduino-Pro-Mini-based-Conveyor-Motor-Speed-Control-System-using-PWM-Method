@@ -18,7 +18,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 | Driver | PL2303 USB Driver |
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x1) |
-| Other Components | • Jumper cable (1 set)<br>• Adaptor DC 12V 2A (x1)<br>• Motor driver L298N (x1)<br>• Breadboard (x1)<br>• Potentiometer (x1)<br>• Push button 12 x 12 mm (x2)<br>• Wood stickers (1 set)<br>• Wood planks (x2) |
+| Other Components | • Jumper cable (1 set)<br>• Adaptor DC 12V 2A (x1)<br>• Motor driver L298N (x1)<br>• Breadboard (x1)<br>• Potentiometer (x1)<br>• Push button 12 x 12 mm (x2)<br>• Wood stickers (1 set)<br>• PVC Sheets 3mm uk.10x50cm (x5)<br>• L Bracket (1 set)<br>• PVC Pipe 1/2 Inch (x2)<br>• Grid 180 Sandpaper (x1)<br>• Stainless Steel Iron 6mm (x2)<br>• Bearing Pillow Block 6mm (x3)<br>• Oscar/Perlak Fabric (1 set) <br>• Castol/G Glue (x1) <br>• Bolts plus 3mm (1 set)<br>• Bolts plus 5mm (1 set)<br>• Nuts 3mm (1 set)<br>• Nuts 5mm (1 set) |
 
 <br><br>
 
