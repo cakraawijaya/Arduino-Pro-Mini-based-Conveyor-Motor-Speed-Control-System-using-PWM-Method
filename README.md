@@ -18,7 +18,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
 | Driver | PL2303 USB Driver |
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x1) |
-| Other Components | • Jumper cable (1 set)<br>• Adaptor DC 12V 2A (x1)<br>• Motor driver L298N (x1)<br>• Breadboard (x1)<br>• Potentiometer (x1)<br>• Push button 12 x 12 mm (x2)<br>• Wood stickers (1 set)<br>• PVC Sheets 3mm sz.10x50cm (x5)<br>• L Bracket (1 set)<br>• PVC Pipe 1/2 Inch (x2)<br>• Grid 180 Sandpaper (x1)<br>• Stainless Steel Iron 6mm (x2)<br>• Bearing Pillow Block 6mm (x3)<br>• Oscar/Perlak Fabric (1 set) <br>• Castol/G Glue (x1) <br>• Bolts plus 3mm (1 set)<br>• Bolts plus 5mm (1 set)<br>• Nuts 3mm (1 set)<br>• Nuts 5mm (1 set) |
+| Other Components | • Jumper cable (1 set)<br>• Adaptor DC 12V 2A (x1)<br>• Motor driver L298N (x1)<br>• Breadboard (x1)<br>• Potentiometer (x1)<br>• Push button 12 x 12 mm (x2)<br>• PVC Sheets 3 mm 10 x 50 cm (x5)<br>• 1/2 Inch Pipe 25 cm (x2)<br>• L Bracket (1 set)<br>• Sandpaper G-180 1 m (x1)<br>• Stainless Steel Concrete 30 cm (x1) (x2)<br>• Bearing Pillow Block 6 mm (x3)<br>• Oscar fabric 50 x 137 cm (x1)<br>• Wood stickers (1 set)<br>• Bolts plus (1 set)<br>• Nuts (1 set)<br>• Smart Car Rims (x1) |
 
 <br><br>
 
