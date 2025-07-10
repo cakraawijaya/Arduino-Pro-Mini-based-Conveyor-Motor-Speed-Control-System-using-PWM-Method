@@ -86,7 +86,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
       </th></tr>
       <tr><td>
       
-      Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```
+      Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```
 
       </td></tr>
    </table><br>
