@@ -86,7 +86,7 @@ Konveyor adalah sebuah sistem mekanik yang digunakan untuk memindahkan barang at
       </th></tr>
       <tr><td>
    
-      Klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```
+      Pilih papan dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```
 
       </td></tr>
    </table><br>
