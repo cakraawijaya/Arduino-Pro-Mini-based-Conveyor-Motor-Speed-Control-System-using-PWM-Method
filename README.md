@@ -84,7 +84,7 @@ Conveyor is a mechanical system used to move goods or materials from one place t
       How to setup the ``` Arduino Pro Mini ``` board
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
       
       Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Pro or Pro Mini ```
 
